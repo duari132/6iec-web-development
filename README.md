@@ -1,2 +1,2 @@
-# 6iec-web-development
-6IEC Web Development
+# 7iec-intro-coding
+7IEC Introduction to Coding
